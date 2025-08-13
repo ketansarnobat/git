@@ -1,2 +1,2 @@
 # git
-all about git
+all about git by .
